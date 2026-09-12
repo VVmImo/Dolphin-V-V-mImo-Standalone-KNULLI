@@ -1,4 +1,4 @@
-# Dolphin V.V.mImo Standalone for KNULLI
+# Dolphin V.V.mImo Standalone for KNULLI SCARAB
 
 An unofficial standalone Dolphin package for ARM64 H700 devices running KNULLI. It provides a dedicated **Nintendo GameCube** menu entry and launches Dolphin directly, without RetroArch.
 
